@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Привет 👋
+### Я - Влад, активно обучаюсь бекэнд-разработке.
 <!--
 **impeaone/impeaone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
