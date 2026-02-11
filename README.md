@@ -1,7 +1,7 @@
 ## Привет 👋
 ### Я - Влад, активно обучаюсь бекэнд-разработке.
 
-![snake gif](https://github.com/impeaone/impeaone/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/impeaone/impeaone/blob/output/dist/github-contribution-grid-snake-dark.gif)
 <!--
 **impeaone/impeaone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
